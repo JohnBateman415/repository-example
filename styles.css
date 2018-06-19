@@ -1,0 +1,41 @@
+body {
+    background-color: fuchsia;
+}
+
+img {
+    width: 400px;
+}
+
+
+p {
+    color: DarkKhaki;
+    font-size: 24px;
+    text-align: center;
+}
+
+h2 {
+    color: chartreuse;
+    font-size: 70pt;
+    text-align: left;
+}
+
+h3 {
+    color: purple;
+    font-size: 3em;
+    text-align: right;
+}
+
+div {
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+}
+
+#topheader {
+    height: 300px;
+    color: white;
+}
+
+.special-places {
+    color: white;
+}
